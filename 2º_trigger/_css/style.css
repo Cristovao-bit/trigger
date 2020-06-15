@@ -1,0 +1,11 @@
+/* 
+    Created on : 05/02/2019, 17:06:47
+    Author     : ML - Manutenção Lira
+*/
+.trigger{position: relative; padding: 20px; color: #333; background: #ccc; border: 1px solid #333; text-shadow: 1px 1px rgba(0,0,0,0.3); box-shadow: 0 3px 7px rgba(0,0,0,0.5); -moz-box-shadow: 0 3px 7px rgba(0,0,0,0.5);-webkit-box-shadow: 0 3px 7px rgba(0,0,0,0.5);}
+.trigger-radius{border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px;}
+.ajax_close{position: absolute; right: 10px; cursor: pointer; top: 10px; background: black; width: 20px; height: 20px; display: none;}
+.trigger-success{background: #0097a7; border-color: #00838f;}
+.trigger-infor{background: #1976d2; border-color: #1565c0;}
+.trigger-alert{background: #fbc02d; border-color: #f9a825;}
+.trigger-error{background: #d32f2f; border-color: #c62828;}
